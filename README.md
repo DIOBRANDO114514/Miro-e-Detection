@@ -4,3 +4,5 @@ TestN.py  is the final visual run and video recording script. Model import from 
 train.py is a previous attempt to train a model on its own, which worked OK but was difficult to deploy to a robot.
 
 yolo-hand-gestures-detection is the original model training full file reference.
+
+For the full project details, please see: https://github.com/BiterTT/Miro
